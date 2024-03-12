@@ -8,8 +8,8 @@
 # ---------------------------------------------------
 # Windows VM Credentials
 
-USER_NAME=""
-ADMIN_PW=""
+USER_NAME="komalsharma"
+ADMIN_PW="komalsharma@123"
 
 # ---------------------------------------------------
 # sshkey pair names
